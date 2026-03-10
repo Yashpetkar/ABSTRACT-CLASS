@@ -1,7 +1,7 @@
 
 ---
 
-# Abstraction in Java (OOP) – Complete 1 Hour Lecture Notes
+# Abstraction in Java (OOP)
 
 ## 1. Introduction to Object Oriented Programming
 
