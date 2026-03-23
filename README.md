@@ -690,4 +690,52 @@ Java achieves abstraction using:
 Understanding abstraction is essential for building **real-world applications and frameworks**.
 
 ---
+# Assignment: Abstract Class (Complex Example – Banking System)
+
+## Problem Statement
+
+Write a Java program to demonstrate the concept of **Abstract Class** using a Banking System.
+
+Create an abstract class **Account** having:
+
+* Data members: accountNumber, name, balance
+* Abstract methods:
+
+  * deposit()
+  * withdraw()
+  * calculateInterest()
+* Concrete method:
+
+  * displayAccountDetails()
+
+Create two derived classes:
+
+* **SavingAccount**
+* **CurrentAccount**
+
+Override abstract methods in both derived classes.
+
+Write a **menu driven driver program** to perform operations like:
+
+1. Deposit
+2. Withdraw
+3. Display Details
+4. Calculate Interest
+
+---
+
+
+```
+
+---
+
+```
+
+---
+
+## Result
+
+Thus, the Java program demonstrating **Abstract Class with real life Banking System and implementation in derived classes** was successfully implemented.
+
+---
 
